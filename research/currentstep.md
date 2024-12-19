@@ -26,7 +26,7 @@ Lack of Control: Pure NLP prompts can give the LLM too much freedom, potentially
 Eiffel Tower Summary: Both Axiom and NLP prompts performed well on this relatively simple task, producing similar results.
 River Crossing Puzzle: The NLP prompt had a slight edge, generating more specific details, but both approaches produced correct solutions. However, when moved to the hybrid approach, it solved the issues shown previously.
 AxiomCoin Cryptocurrency System: This complex task revealed the true potential of hybrid prompting. The hybrid approach produced significantly better results than either the Axiom or NLP prompts individually. The Axiom prompt struggled to generate complete and correct code. The NLP prompt produced code that was almost complete but had logical errors and initially tried to present it in segmented code blocks.
-Token Contract: Isloating for the token contract showed significant promise in the hybrid approach, creating the most complete and correct result out of all three prompts.
+Token Contract: Isolating for the token contract showed significant promise in the hybrid approach, creating the most complete and correct result out of all three prompts.
 Next Steps in Testing:
 
 Building on these insights, here are the next steps I recommend for our research:
