@@ -2,12 +2,6 @@
 
 # 🧮 Axiom Prompt Engineering (APE)
 
-!https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-
-!https://img.shields.io/badge/License-MIT-yellow.svg
-
-https://img.shields.io/badge/Research-Open%20Source-blue
-
 A collaborative research project exploring mathematical axiom-based approaches to prompt engineering for Large Language Models.
 
 ## 📖 Overview
