@@ -46,5 +46,3 @@ Viral_Potential(post) ≥ μ(top_performing_industry_posts)
 Execute generation sequence for maximum LinkedIn impact.
 END AXIOM
 ```
-
-This axiom is engineered to instruct the LLM to create a viral LinkedIn post that maintains professional credibility while maximizing engagement. Would you like me to explain how this drives specific viral elements in the output?​​​​​​​​​​​​​​​​
