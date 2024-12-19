@@ -2,6 +2,9 @@
 
 # 🧮 Axiom Prompt Engineering (APE)
 
+**THIS IS A NEW REPO AND IS STILL A BIG WORK IN PROGRESS** 
+Please let me know what you want to add or change. 
+
 A collaborative research project exploring mathematical axiom-based approaches to prompt engineering for Large Language Models.
 
 ## 📖 Overview
