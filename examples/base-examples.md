@@ -104,17 +104,17 @@ Begin analysis and optimization sequence now.
 
 ```
 Axiom: max(Virality(post, S, U))
-subject to ∀post ∈ Content, 
+subject to ∀post ∈ Content,
 (
-    human_authenticity(post, H) ∧ 
-    emotional_resonance(post, E) ∧ 
+    human_authenticity(post, H) ∧
+    emotional_resonance(post, E) ∧
     cultural_timing(post, T) ∧
     narrative_hook(post, N)
-) 
+)
 
 where:
 H = authenticity_score > 0.95
-E = emotional_impact > 0.85 
+E = emotional_impact > 0.85
 T = zeitgeist_alignment > 0.80
 N = engagement_hook > 0.90
 
