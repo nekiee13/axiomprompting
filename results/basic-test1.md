@@ -132,12 +132,3 @@ Slight Edge to NLP? The NLP prompt, in both rounds, has included slightly more s
 Conclusion:
 
 Both the Axiom prompt and the NLP prompt are performing remarkably well, producing factually accurate, relevant, clear, and concise summaries. The differences between the outputs are minimal. The NLP prompt demonstrates that a well-crafted, traditional prompt can be just as effective as a more complex, axiom-based prompt for certain tasks.
-
-Next Steps:
-
-It's still highly recommended to:
-
-Generate more results (at least 3-5 for each prompt): More data points will help us determine if the slight edge for the NLP prompt observed here is consistent or just an anomaly.
-Test with more challenging tasks: We need to explore tasks that require more complex reasoning, inference, or creativity to truly understand the strengths and weaknesses of each prompting style.
-Experiment with longer summaries. This will provide further insight into prompt differences.
-This is turning into a very interesting experiment! We are seeing how different prompting styles can interact with LLMs and the quality of their responses. This also goes to show that different styles can be equally valid, and may come down to personal preference.
