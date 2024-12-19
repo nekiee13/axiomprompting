@@ -1,3 +1,5 @@
+
+```
 Maximize: Σ ∆ID(token, i | TOPIC_ID: EIFFEL_TOWER_HISTORY, L=100)
 
 Subject to:
@@ -7,8 +9,12 @@ structure(token, FormalGrammar: English) ∧
 factuality(token, KnowledgeBase: EiffelTowerKB) ∧
 coherence(token, ??) ∧  // Very difficult to define formally
 context(token, ??)      // Equally difficult to define formally
+```
 
-This is a fascinating and complex optimization problem you've laid out. Let's break down what you're trying to achieve and how we might approach it, acknowledging the inherent difficulties you've pointed out.
+
+
+
+This is a fascinating and complex optimization problem laid out. Let's break down what you're trying to achieve and how we might approach it, acknowledging the inherent difficulties you've pointed out.
 
 Understanding the Objective Function: Σ ∆ID(token, i | TOPIC_ID: EIFFEL_TOWER_HISTORY, L=100)
 
