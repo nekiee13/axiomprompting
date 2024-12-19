@@ -8,7 +8,6 @@ utility(element, U) ∧
 coherence(element, C)
 )
 
-Code
 ## Core Optimization Parameters
 - **P** = f(accuracy, relevance, specificity)
 - **D** = g(comprehensiveness, nuance, expertise)
