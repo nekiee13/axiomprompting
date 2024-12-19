@@ -173,7 +173,7 @@ axiom-prompt-engineering/
 
 ## 🤝 Contributing
 
-We welcome contributions! See our [Contributing Guide](notion://www.notion.so/CONTRIBUTING.md) for details on:
+We welcome contributions and are currently looking for active members of the community! This doesnt need to be set on Axiom prompting and we continue the development and research of general LLM prompting. 
 
 - Submitting test results
 - Proposing new axioms
