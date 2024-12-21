@@ -1,5 +1,36 @@
 <antArtifact identifier="axiom-prompt-readme" type="text/markdown" title="Axiom Prompt Engineering - Research & Development">
+# This is a fork from original repo [codedidit/axiomprompting]
 
+I made python implementation for fast proto-typing with APE. File explanation is straight-forward as it gets.
+- LLM_model - set-up & use your local LLM (via Ollama)
+- Core.py - a place where you define AXIOM CORE_PARAMETERS
+- Vectors.py - a place where you define AXIOM VECTORS
+- Response_Generation_Protocol.py - a place where you define AXIOM PROTOCOLS
+- .env - a place where you build AXIOM
+- user_query.md - your prompt
+
+NOTES:
+1. This is pre-alpha stage. I'm not yet completly sure what AXIOM's author workflow is, and this is just my interpretation of it at this moment. It will probably experiance major modifications once I understand the idea correctly.
+2. It's FOSS and the licence remains as with the original.
+3. This is my 1st ever git repo, so I hope everything is working... I hope I done it rigt.
+4. I work only under Win11 (no coder)
+
+# Installation
+1. prepare virtual environment
+```
+conda create --prefix D:\Prompt\Axiom python=3.11 -y
+conda activate D:\Prompt\Axiom && D: && cd D:\Prompt\Axiom && mkdir xPrj && cd xPrj
+echo %errorlevel%
+```
+2. git clone the repo inside it 
+git clone https://github.com/nekiee13/axiomprompting.git
+3. Required python libraries
+`pip install rich structlog ollama python-dotenv`
+4. The script also uses Python's built-in libraries like os, datetime, logging, and re, which do not require additional installation.
+
+The rest of Readme from original author.
+
+----
 # 🧮 Axiom Prompt Engineering (APE)
 
 **THIS IS A NEW REPO AND IS STILL A BIG WORK IN PROGRESS** 
