@@ -1,0 +1,12 @@
+# Temporary Markdown files
+241221-*.md
+
+# Cache directory
+__pycache__/
+
+# Test files
+xTest.py
+xTest_Ollama.py
+
+# Arch directory
+Arch/
