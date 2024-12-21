@@ -1,0 +1,258 @@
+# Axiom Equation Prompts: A New Frontier in LLM Effectiveness
+
+Large Language Models (LLMs) have revolutionized artificial intelligence with their ability to understand and generate human-like text. However, their effectiveness hinges on the quality of the prompts they receive. This article explores a novel prompting technique known as "axiom equation prompts" and their potential to enhance LLM performance.
+
+## What are Axiom Equation Prompts?
+
+Axiom equation prompts, grounded in the principles of meta prompting, leverage the structure and syntax of information to guide LLMs. They incorporate fundamental truths or established facts, known as axioms, relevant to the task at hand. These prompts may explicitly state axioms or implicitly embed them within the instructions. By providing LLMs with these foundational truths, we can potentially guide their reasoning process and improve their ability to generate accurate and coherent responses.
+
+Axioms are fundamental truths or assumptions that serve as the foundation for a system of knowledge or a theory. In mathematics and logic, axioms are statements that are accepted as true without proof and are used to derive other truths. For example, in Euclidean geometry, the statement "A straight line segment can be drawn joining any two points" is an axiom.
+
+### Types of Axioms
+
+- **Logical axioms**: Fundamental truths in a system of logic, such as the law of non-contradiction (a statement cannot be both true and false at the same time).
+- **Non-logical axioms**: Specific assumptions about the elements of a particular theory, such as the commutative property of addition in arithmetic (a + b = b + a).
+- **Domain-specific axioms**: Axioms that hold true within a specific field of knowledge, such as the laws of physics or the principles of economics.
+
+### Applying Axiom Equation Prompts to LLMs
+
+Applying this concept to LLMs, an axiom equation prompt might include axioms like the commutative property of addition (a + b = b + a) or the distributive property of multiplication over addition (a(b + c) = ab + ac) in a mathematical reasoning task. By incorporating these axioms into the prompt, we can potentially enhance the LLM's ability to solve mathematical problems and generate valid proofs.
+
+## Designing Effective Axiom Equation Prompts
+
+Designing effective axiom equation prompts requires a deep understanding of the task, the relevant domain, and the capabilities of the LLM. Here are some key considerations:
+
+1. **Identify relevant axioms**: Carefully select the axioms that are most relevant to the task and domain.
+2. **Incorporate axioms effectively**: Integrate the axioms into the prompt in a clear and concise manner, either explicitly or implicitly.
+3. **Utilize "guides"**: Guides can be incorporated into the prompt design. A guide is a function that constrains the LLM's output by defining a set of valid generations based on previous choices. This can potentially improve accuracy and consistency by preventing the LLM from generating illogical or irrelevant responses.
+4. **Test and refine prompts**: Evaluate the effectiveness of the prompts and refine them iteratively to optimize performance.
+
+## Types of Axiom Equation Prompts and Their Applications
+
+The choice of axiom equation prompt depends on factors like the task's complexity, the desired output format, and the LLM's capabilities. Here are some examples of how different types of axiom equation prompts might be used in various domains:
+
+- **Mathematical reasoning**: Prompts incorporating basic algebraic axioms (e.g., commutative, associative, distributive properties) can be used to guide LLMs in solving equations or generating proofs.
+- **Logical reasoning**: Prompts incorporating logical axioms (e.g., laws of non-contradiction, excluded middle) can be used to improve the LLM's ability to perform deductive reasoning or solve logic puzzles.
+- **Commonsense reasoning**: Prompts incorporating common sense knowledge or everyday assumptions can be used to enhance the LLM's ability to understand and respond to real-world scenarios.
+- **Programming**: Prompts incorporating programming language syntax and semantics can be used to guide LLMs in generating code or debugging programs.
+
+## How Do Axiom Equation Prompts Differ from Other Prompts?
+
+Traditional prompts for LLMs typically focus on providing instructions or context for a specific task. They may include questions, scenarios, or examples to guide the model's response. However, these prompts often lack the explicit or implicit inclusion of fundamental principles or axioms.
+
+Axiom equation prompts, on the other hand, aim to provide LLMs with a foundational framework for reasoning. By incorporating axioms, these prompts can potentially enhance the model's ability to:
+
+- **Understand underlying principles**: Axiom equation prompts can help LLMs grasp the fundamental truths relevant to a task, enabling them to reason more effectively.
+- **Generate logically sound responses**: By providing a basis for logical deduction, these prompts can guide LLMs towards producing more consistent and coherent outputs.
+- **Reduce ambiguity and bias**: By explicitly stating axioms, these prompts can help minimize the risk of LLMs relying on flawed assumptions or biases. For example, in a task involving moral reasoning, providing axioms related to fairness and justice can help prevent the LLM from generating biased or discriminatory responses.
+
+## Potential Benefits and Limitations of Axiom Equation Prompts
+
+### Benefits
+
+- **Improved accuracy and consistency**: By providing a foundational framework for reasoning, these prompts can lead to more accurate and consistent responses from LLMs.
+- **Enhanced reasoning abilities**: Axiom equation prompts can potentially enhance the logical reasoning capabilities of LLMs, enabling them to tackle more complex tasks.
+- **Reduced bias and improved fairness**: By explicitly stating axioms, these prompts can help mitigate the risk of LLMs relying on biased or unfair assumptions.
+
+### Limitations
+
+- **Complexity of design**: Designing effective axiom equation prompts can be challenging, requiring careful consideration of the relevant axioms and their implications.
+- **Dependence on task and domain**: The effectiveness of axiom equation prompts may vary depending on the specific task and domain.
+- **Potential for overfitting**: If not carefully designed, these prompts could lead to overfitting, where the LLM becomes too reliant on the provided axioms and struggles to generalize to new situations. To mitigate this risk, it's essential to use a diverse set of axioms and potentially incorporate regularization techniques during training.
+
+## Case Studies
+
+One study explored the use of LLMs in commonsense reasoning tasks, highlighting the potential of incorporating axiomatic knowledge bases to improve performance. The researchers found that by providing the LLM with a set of axioms related to common sense knowledge, they could significantly enhance its ability to reason about everyday situations and make accurate predictions.
+
+## Experiments
+
+Another study investigated the ability of transformer models to learn causal axioms. The researchers trained a transformer model on a dataset of causal relationships, where each relationship was represented as an axiom. They found that the model could effectively learn these axioms and apply them to new situations, demonstrating the potential of training LLMs on axiomatic demonstrations to improve their causal reasoning abilities.
+
+## Conclusion
+
+Axiom equation prompts represent a promising avenue for enhancing the effectiveness of LLMs. By providing these models with a foundational framework for reasoning, we can potentially unlock their full potential and enable them to tackle increasingly complex tasks. This approach aligns with the growing emphasis on explainable AI (XAI), as it allows us to understand the underlying principles guiding the LLM's reasoning process.
+
+However, further research and experimentation are needed to fully understand the benefits and limitations of this approach and to develop best practices for designing effective axiom equation prompts. Continued research in this area is crucial for shaping the future of LLMs and ensuring their responsible and beneficial use.
+
+
+
+Citations for the Research//Researched was pulled from 48 sites/docs.
+
+(PDF) Prompt Engineering in Large Language Models - ResearchGate
+researchgate.net/publication/377214553_Prompt_Engineering_in_Large_Language_Models
+
+(PDF) Prompt Engineering For Large Language Model - ResearchGate
+researchgate.net/publication/379048840_Prompt_Engineering_For_Large_Language_Model
+
+
+Prompt engineering: A guide to improving LLM performance - CircleCI
+circleci.com/blog/prompt-engineering
+
+
+[2407.12994] A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks - arXiv
+arxiv.org/abs/2407.12994
+
+Comprehensive Guide on Prompt Engineering in LLMs | by Machine Mind
+machine-mind-ml.medium.com/comprehensive-guide-on-prompt-engineering-in-llms-e69b0512e9cc
+
+
+Getting started with LLM prompt engineering | Microsoft Learn
+learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/prompt-engineering
+
+Papers | Prompt Engineering Guide
+promptingguide.ai/papers
+
+LLM Prompt Engineering for Beginners: What It Is and How to Get Started - Medium
+medium.com/thedeephub/llm-prompt-engineering-for-beginners-what-it-is-and-how-to-get-started-0c1b483d5d4f
+
+
+Mastering Prompt Engineering: Unlocking the Power of LLMs | Anaconda
+anaconda.com/blog/mastering-prompt-engineering-llms
+
+
+Axiomatic Preference Modeling for Longform Question Answering - OpenReview
+openreview.net/pdf?id=IlgpELdUeK
+
+Meta Prompting for AGI Systems - arXiv
+arxiv.org/html/2311.11482v2
+
+
+Question-Analysis Prompting Improves LLM Performance in Reasoning Tasks - arXiv
+arxiv.org/html/2407.03624v1
+
+
+The Unreasonable Ineffectiveness of AI for Math
+synthesis.ai/2024/02/13/the-unreasonable-ineffectiveness-of-ai-for-math
+
+
+LLMs can't self-correct in reasoning tasks, DeepMind study finds | Hacker News
+news.ycombinator.com/item?id=37823543
+
+
+CEAMC: Corpus and Empirical Study of Argument Analysis in Education via LLMs - ACL Anthology
+aclanthology.org/2024.findings-emnlp.408.pdf
+
+LLM Cognition Workshop
+llm-cognition.github.io
+
+
+What is axiom really and what is the proof for axioms? : r/3Blue1Brown - Reddit
+reddit.com/r/3Blue1Brown/comments/1d9q7gv/what_is_axiom_really_and_what_is_the_proof_for
+
+
+Difference(s) between an axiom scheme and an axiom - Mathematics Stack Exchange
+math.stackexchange.com/questions/2401566/differences-between-an-axiom-scheme-and-an-axiom
+
+
+Axiom - Wikipedia
+en.wikipedia.org/wiki/Axiom
+
+
+What exactly is an axiom, and can an axiom be proven? - Mathematics Stack Exchange
+math.stackexchange.com/questions/2823915/what-exactly-is-an-axiom-and-can-an-axiom-be-proven
+
+
+Say $a=b$. Is "Do the same thing to both sides of an equation, and it still holds" an axiom?
+math.stackexchange.com/questions/2808744/say-a-b-is-do-the-same-thing-to-both-sides-of-an-equation-and-it-still-hold
+
+
+Basic Axioms of Algebra - AAA Math
+aaamath.com/ac11.htm
+
+
+Axioms, Conjectures & Theories: Definition, Videos, Examples
+toppr.com/guides/maths/introduction-to-euclids-geometry/axioms-conjectures-and-theorems
+
+Why worry about the axiom of choice? - MathOverflow
+mathoverflow.net/questions/22927/why-worry-about-the-axiom-of-choice
+
+
+Prompt Design 101: How to get accurate results from LLMs - YouTube
+m.youtube.com/watch?v=ZKAoHekrMpI
+
+
+LLM Prompt Designing and Experimentation | by Sulbha Jain | Nov, 2024 | Medium
+medium.com/@sulbha.jindal/llm-prompt-designing-and-experimentation-ab4778defdfb
+
+
+Putnam-AXIOM: A Functional and Static Benchmark for Measuring Higher Level Mathematical Reasoning | OpenReview
+openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf
+
+Certified Deductive Reasoning with Language Models - arXiv
+arxiv.org/pdf/2306.04031
+
+Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus - arXiv
+arxiv.org/pdf/2411.12498?
+
+
+Understanding the Limitations of Mathematical Reasoning in LLMs - Hacker News
+news.ycombinator.com/item?id=41808683
+
+
+Putnam-AXIOM: A Functional and Static Benchmark for Measuring Higher Level Mathematical Reasoning - OpenReview
+openreview.net/pdf/fd4a2550baf0b658f5f3f6d967d0425555bc2604.pdf
+
+
+Axiomatic Preference Modeling for Longform Question Answering - ACL Anthology
+aclanthology.org/2023.emnlp-main.702.pdf
+
+
+Putnam-AXIOM: A Functional & Static Benchmark for Measuring Higher Level Mathematical Reasoning in LLMs | OpenReview
+openreview.net/forum?id=WrBqgoseGL
+
+
+arXiv:2403.13312v1 [cs.CL] 20 Mar 2024 - ACL Anthology
+aclanthology.org/2024.naacl-long.416.pdf
+
+
+Can LLMs reason logically? If not, how can we teach them? - Hitachi
+hitachi.com/rd/sc/aiblog/formal-logic-deduction/index.html
+
+
+Misguided Attention - challenging the reasoning ability of LLMs : r/LocalLLaMA - Reddit
+reddit.com/r/LocalLLaMA/comments/1cwa3jl/misguided_attention_challenging_the_reasoning
+
+
+LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
+openreview.net/forum?id=wNobG8bV5Q
+
+Teaching Transformers Causal Reasoning through Axiomatic Training - arXiv
+arxiv.org/html/2407.07612v1
+
+Meaningless is better: hashing bias-inducing words in LLM prompts improves performance in logical reasoning and statistical learning - arXiv
+arxiv.org/pdf/2411.17304?
+
+
+03: Reasoning: How LLMs Solve Complex Reasoning Tasks — OscarAI - Oscar Health's
+hioscar.ai/03-reasoning-or-how-llms-solve-complex-reasoning-tasks
+
+
+arXiv:2411.00863v1 [cs.CL] 30 Oct 2024
+arxiv.org/pdf/2411.00863
+
+
+Basic Axioms of Algebra - AAA Math
+aaamath.com/ac11.htm
+
+
+Start Learning Reals 3 | Working With Axioms - YouTube
+youtube.com/watch?v=E2MAvASTcg4
+
+Which formulas can go in the axiom of (unrestricted) comprehension?
+math.stackexchange.com/questions/4804758/which-formulas-can-go-in-the-axiom-of-unrestricted-comprehension
+
+
+Another Axiomatic System Example - YouTube
+youtube.com/watch?v=XF7wunfrjwU
+
+
+An Axiomatic Approach to Model-Agnostic Concept Explanations - arXiv
+arxiv.org/pdf/2401.06890
+
+
+All the Axioms of Mathematics - YouTube
+youtube.com/watch?v=f_8myEDBD9A
+
+
+Formulating Effect axiom - prolog - Stack Overflow
+stackoverflow.com/questi

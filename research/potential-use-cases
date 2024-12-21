@@ -1,0 +1,16 @@
+Potential Current Use Cases (Most Promising):
+
+Complex Code Generation:
+Developing smart contracts: Where precise logic and adherence to security rules are crucial.
+Creating game AI: Where agents need to follow specific rules while also exhibiting intelligent behavior.
+Generating code for robotics or embedded systems: Where formal constraints can help ensure safety and reliability.
+Strategic Planning and Decision Making:
+Developing business plans with specific constraints: As demonstrated in our experiments.
+Creating financial models or investment strategies: Where formal constraints can represent market rules or risk parameters.
+Generating game content or scenarios: Where the content needs to adhere to specific game mechanics and rules.
+Content Creation with Specific Requirements:
+Generating marketing copy that adheres to brand guidelines and legal regulations: Formal constraints can ensure compliance, while NLP instructions can encourage creativity.
+Creating educational materials that meet specific learning objectives: Formal constraints can ensure accuracy and coverage of required topics.
+Generating personalized content based on user data and preferences: Formal constraints can represent user preferences and ensure privacy.
+Specialized Chatbots:
+Chatbots that are able to have the creativity of an NLP prompt, while following a strict set of rules set by the Axiom prompt.
